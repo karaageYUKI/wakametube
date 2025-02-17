@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: google-kovmk
+    name: google-kovmkky6v77855qqz87kso-nwowpmgng88
     env: node
     plan: free
     buildCommand: npm install
