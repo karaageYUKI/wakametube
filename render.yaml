@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: school-loilo-tv
+    name: school-loilo-tv-google-com
     env: node
     plan: free
     buildCommand: npm install
