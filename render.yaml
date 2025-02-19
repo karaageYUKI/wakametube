@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: google-ool
+    name: google-neetgakuen
     env: node
     plan: free
     buildCommand: npm install
