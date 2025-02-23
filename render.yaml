@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: google-com-ee
+    name: google-com
     env: node
     plan: free
     buildCommand: npm install
