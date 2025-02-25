@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: google-com
+    name: google-motoyamakichi-senyou
     env: node
     plan: free
     buildCommand: npm install
