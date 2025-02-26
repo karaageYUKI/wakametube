@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: google-motoyamakichi-senyou
+    name: google-asai-senyou
     env: node
     plan: free
     buildCommand: npm install
