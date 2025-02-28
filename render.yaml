@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: google-nayu-senyou
+    name: google-karaage2021proxy
     env: node
     plan: free
     buildCommand: npm install
